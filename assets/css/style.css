@@ -8,6 +8,7 @@ body {
     position: relative;
     color: purple;
     margin-left: 10px;
+    text-decoration: none;
 }
 .timer {
     display: flex;
@@ -46,4 +47,17 @@ h1 {
 
 .hidden {
     display: none;
+}
+
+#questions {
+    text-align: center;
+    padding: 80px;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-size: 20px;
+    color: black;
+}
+
+#selections {
+    
 }
